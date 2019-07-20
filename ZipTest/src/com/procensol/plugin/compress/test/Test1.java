@@ -1,4 +1,4 @@
-package com.procensol.plugin.compress;
+package com.procensol.plugin.compress.test;
 
 import java.io.File;
 import java.util.ArrayList;

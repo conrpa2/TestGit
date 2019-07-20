@@ -1,6 +1,8 @@
-package com.procensol.plugin.compress;
+package com.procensol.plugin.compress.test;
 import java.io.File;
 import java.io.IOException;
+
+import com.procensol.plugin.compress.SevenZ;
 
 public class Test {
 
